@@ -24,8 +24,3 @@ The app uses **Hive** for fast, secure, and offline local data storage.
 
 ---
 
-## 💡 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flutter-phonebook-app.git
